@@ -1,0 +1,42 @@
+name: scraper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - beautifulsoup4=4.8.2
+  - bs4=4.8.2
+  - ca-certificates=2019.11.28
+  - certifi=2019.11.28
+  - cffi=1.13.2
+  - chardet=3.0.4
+  - cryptography=2.8
+  - idna=2.9
+  - ld_impl_linux-64=2.33.1
+  - libffi=3.2.1
+  - libgcc-ng=9.2.0
+  - libgomp=9.2.0
+  - libstdcxx-ng=9.2.0
+  - ncurses=6.1
+  - openssl=1.1.1d
+  - pip=20.0.2
+  - pycparser=2.19
+  - pyopenssl=19.1.0
+  - pysocks=1.7.1
+  - python=3.7.6
+  - python-dateutil=2.8.1
+  - readline=8.0
+  - requests=2.23.0
+  - setuptools=45.2.0
+  - six=1.14.0
+  - soupsieve=1.9.4
+  - sqlite=3.30.1
+  - tk=8.6.10
+  - tqdm=4.43.0
+  - urllib3=1.25.7
+  - wheel=0.34.2
+  - xz=5.2.4
+  - zlib=1.2.11
+prefix: /home/j/anaconda3/envs/scraper
+
